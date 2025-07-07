@@ -645,4 +645,4 @@ kubectl logs -f deployment/myapp
 
 **Congratulations on choosing the AZ-400 certification! This journey will transform how you think about software delivery and operations. Remember: great DevOps engineers are made through practice, not just study. Build pipelines, automate everything, and always think about the end user experience.**
 
-*Last updated: December 2024* 
+*Last updated: July 2025* 

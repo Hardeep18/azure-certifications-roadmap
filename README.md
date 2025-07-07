@@ -121,10 +121,10 @@ Recommended sequence: **AZ-104 → AZ-400** (allows 2-3 weeks between exams for 
 
 - **[AZ-104 Complete Roadmap](./AZ-104-README.md)** - Azure Administrator (5 weeks)
 - **[AZ-400 Complete Roadmap](./AZ-400-README.md)** - DevOps Solutions (7 weeks)
-- **[Download Practice Papers & Cheatsheets](https://drive.google.com/yourlink)** - Additional resources
+- **[Download Practice Papers & Cheatsheets](https://drive.google.com/drive/folders/10fb8pUjmNxyx_1AGrswROj8Dmdjh6BKS?usp=drive_link)** - Additional resources
 
 ---
 
 **🎯 Ready to start your Azure certification journey? Choose your path and let's build your cloud expertise together!**
 
-*Repository maintained by Microsoft Certified Azure Solutions Expert | Last updated: December 2024*
+*Repository maintained by Microsoft Certified Azure Solutions Expert | Last updated: July 2025*

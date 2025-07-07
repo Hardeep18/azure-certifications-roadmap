@@ -354,4 +354,4 @@ az vm deallocate --resource-group myRG --name myVM
 
 **Good luck with your AZ-104 certification journey! Remember, this certification is about proving you can manage Azure infrastructure effectively. Focus on hands-on practice and real-world scenarios.**
 
-*Last updated: December 2024* 
+*Last updated: July 2025* 
